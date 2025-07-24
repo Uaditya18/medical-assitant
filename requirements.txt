@@ -1,0 +1,17 @@
+pandas
+pandas
+numpy
+scikit-learn
+joblib
+torch
+transformers
+tqdm
+tokenizers
+langchain_ollama
+langchain_core
+streamlit
+langchain
+langchain-community
+collection
+yagmail
+pytorch_tabnet
